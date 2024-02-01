@@ -135,7 +135,7 @@ body {
 }
 
 #hero {
-    background-image: url("ecom/MXP6944-stationery-hero-full-001_cb=65ab3019dbda0602d41324287080bf1bf8c0daa3.jpg");
+    background-image: url("MXP6944-stationery-hero-full-001_cb=65ab3019dbda0602d41324287080bf1bf8c0daa3.jpg");
     height: 120vh;
     width: 100%;
     background-size: cover;
@@ -273,7 +273,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url("ecom/back-to-school-banner-workspace-vector-47931882.jpg");
+    background-image: url("back-to-school-banner-workspace-vector-47931882.jpg");
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -320,7 +320,7 @@ body {
 }
 
 #sm-banner .banner-box2{
-    background-image: url("ecom/Back_to_school_preparing_for_new_study_year_buy.jpg");
+    background-image: url("Back_to_school_preparing_for_new_study_year_buy.jpg");
 }
 
 
@@ -358,7 +358,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url("ecom/Creativ_concept_stationary_banner_background_Co.jpg");
+    background-image: url("Creativ_concept_stationary_banner_background_Co.jpg");
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -367,10 +367,10 @@ body {
     margin-bottom: 20px;
 }
 #banner3 .banner-box2{
-    background-image: url("ecom/Wide_gradient_paper_texture_for_design_backgroun.jpg");
+    background-image: url("Wide_gradient_paper_texture_for_design_backgroun.jpg");
 }
 #banner3 .banner-box3{
-    background-image: url("ecom/Wide_gradient_paper_texture_for_design_backgroun (1).jpg");
+    background-image: url("Wide_gradient_paper_texture_for_design_backgroun (1).jpg");
 }
 
 #banner3 h2{
@@ -499,7 +499,7 @@ footer .copyright{
 
 /* shop page */
 #page-header {
-    background-image: url("ecom/banner_of_stationary_shop_cinematic_illustrati.jpg");
+    background-image: url("banner_of_stationary_shop_cinematic_illustrati.jpg");
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -591,7 +591,7 @@ footer .copyright{
 
 /* Blog Page */
 #page-header.blog-header{
-    background-image: url("ecom/a_logo_for_Stationery_named_Ravechi_Collection.jpg");
+    background-image: url("a_logo_for_Stationery_named_Ravechi_Collection.jpg");
 }
 
 #blog {
@@ -665,7 +665,7 @@ footer .copyright{
 /* About Page*/
 
 #page-header.about-header {
-    background-image: url("ecom/Cr_un_branding_moderne_lgant_et_minimaliste.jpg");
+    background-image: url("Cr_un_branding_moderne_lgant_et_minimaliste.jpg");
 }
 #about-head {
     display: flex;
