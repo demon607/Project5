@@ -3,48 +3,48 @@
         "id": 1,
         "name": "Red Pen",
         "price": 100,
-        "image": "image/red pen"
+        "image": "red pen"
     },
     {
         "id": 2,
         "name": "Acrylic paint",
         "price": 200,
-        "image": "image/Acrylic paint.webp"
+        "image": "Acrylic paint.webp"
     },
     {
         "id": 3,
         "name": "Canvas",
         "price": 300,
-        "image": "image/9d31b1f7d27f403d4665942bee5d1efd97a108f4.png"
+        "image": "9d31b1f7d27f403d4665942bee5d1efd97a108f4.png"
     },
     {
         "id": 4,
         "name": "colors",
         "price": 400,
-        "image": "image/11c7b6f43e62cb13f681c9554311b84bfe64454a.png"
+        "image": "11c7b6f43e62cb13f681c9554311b84bfe64454a.png"
     },
     {
         "id": 5,
         "name": "hieghlighter",
         "price": 500,
-        "image": "image/66-3.webp"
+        "image": "66-3.webp"
     },
     {
         "id": 6,
         "name": "Neon Paint",
         "price": 600,
-        "image": "image/cc3dc8a731c960d828092a81d343940a6ed856dd.png"
+        "image": "cc3dc8a731c960d828092a81d343940a6ed856dd.png"
     },
     {
         "id": 7,
         "name": "Fointain Pen",
         "price": 700,
-        "image": "image/889061ddcd24757d7868904d2b96c8b598a8c6e5.png"
+        "image": "889061ddcd24757d7868904d2b96c8b598a8c6e5.png"
     },
     {
         "id": 8,
         "name": "Oil Paint",
         "price": 800,
-        "image": "image/71ZQ058yV2L.jpg"
+        "image": "71ZQ058yV2L.jpg"
     }
 ]
